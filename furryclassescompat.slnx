@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="furryclassescompat/CakeBuild/CakeBuild.csproj" />
+  <Project Path="furryclassescompat/furryclassescompat/furryclassescompat.csproj" />
+</Solution>

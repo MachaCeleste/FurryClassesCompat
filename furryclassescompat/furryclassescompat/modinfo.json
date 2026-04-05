@@ -1,0 +1,15 @@
+{
+  "$schema": "https://moddbcdn.vintagestory.at/schema/modinfo.latest.json",
+  "type": "Code",
+  "modid": "furryclassescompat",
+  "name": "Anthro Players + All Classes Compat",
+  "authors": [
+    "MachaCeleste"
+  ],
+  "description": "Compatibility patch that adds All Classes mod classes to Anthro Players model selections.",
+  "version": "1.0.0",
+  "dependencies": {
+    "furry": "0.2.0",
+    "allclasses": "2.0.0"
+  }
+}
