@@ -11,5 +11,11 @@
   "dependencies": {
     "furry": "0.2.0",
     "allclasses": "2.0.0"
-  }
+  },
+
+  "side": "universal",
+  "requiredOnClient": true,
+  "requiredOnServer": true,
+
+  "website":  "https://ko-fi.com/machaceleste"
 }
